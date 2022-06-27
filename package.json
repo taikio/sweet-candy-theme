@@ -1,8 +1,8 @@
 {
-  "name": "sweet-candy-theme",
-  "displayName": "Sweet Candy Color Theme",
-  "description": "A dark theme with vivid color scheme",
-  "version": "0.0.1",
+  "name": "sweet-code-theme",
+  "displayName": "Sweet Code Color Theme",
+  "description": "A dark theme with vivid colors",
+  "version": "1.0.0",
   "publisher": "WelkerArantes",
   "engines": {
     "vscode": "^1.66.0"
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/taikio/sweet-candy-theme.git"
+    "url": "https://github.com/taikio/sweet-code-theme.git"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Sweet Candy Color Theme",
+        "label": "Sweet Code Color Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/color-scheme.json"
       }
